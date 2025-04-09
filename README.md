@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi! I'm José Seben 👋
 
-<!--
-**SebenJose/SebenJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student passionate about game development. 🧠🎮  
+I love bringing my ideas to life — turning something from my imagination into a real and interactive experience.  
+In addition to game development, I'm currently exploring and improving my skills in front-end development as well.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white)
+
+--- 
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out or follow me:
+
+- 📧 josecarlospc001@gmail.com  
+
+---
