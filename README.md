@@ -2,7 +2,7 @@
 
 I'm a computer science student passionate about game development. 🧠🎮  
 I love bringing my ideas to life — turning something from my imagination into a real and interactive experience.  
-In addition to game development, I'm currently exploring and improving my skills in front-end development as well.
+In addition to game development, I'm currently exploring and improving my skills in web development as well.
 
 ---
 
@@ -18,7 +18,7 @@ In addition to game development, I'm currently exploring and improving my skills
 --- 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
 Feel free to reach out or follow me:
 
