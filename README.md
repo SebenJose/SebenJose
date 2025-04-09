@@ -19,8 +19,8 @@ In addition to game development, I'm currently exploring and improving my skills
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
 </p>
-
 
 
 ## 📫 Contact Me
